@@ -1,0 +1,24 @@
+{
+  "name": "pagodigital-sdk",
+  "version": "0.0.1",
+  "description": "Modulo de integracion con pasarela de pagos \"Pago digital\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/allensmilko/pagodigital-sdk.git"
+  },
+  "keywords": [
+    "payment",
+    "npm",
+    "sdk"
+  ],
+  "author": "allensmilko",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/allensmilko/pagodigital-sdk/issues"
+  },
+  "homepage": "https://github.com/allensmilko/pagodigital-sdk#readme"
+}
