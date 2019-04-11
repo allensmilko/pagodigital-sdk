@@ -2,7 +2,7 @@
   "name": "pagodigital-sdk",
   "version": "0.0.1",
   "description": "Modulo de integracion con pasarela de pagos \"Pago digital\"",
-  "main": "index.js",
+  "main": "lib/index.js",
   "scripts": {
     "test": "test"
   },
